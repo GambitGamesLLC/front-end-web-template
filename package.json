@@ -1,0 +1,34 @@
+{
+  "name": "front-end-web-template",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "types": "./dist/main.d.ts",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/main.umd.js",
+  "module": "./dist/main.es.js",
+  "exports": {
+    ".": {
+      "require": "./dist/main.umd.js",
+      "import": "./dist/main.es.js"
+    }
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && tsc",
+    "preview": "vite preview",
+    "check": "svelte-check --tsconfig ./tsconfig.json"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.1",
+    "@tsconfig/svelte": "^3.0.0",
+    "svelte": "^3.49.0",
+    "svelte-check": "^2.8.0",
+    "svelte-preprocess": "^4.10.7",
+    "tslib": "^2.4.0",
+    "typescript": "^4.6.4",
+    "vite": "^3.0.7"
+  }
+}
