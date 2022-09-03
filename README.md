@@ -1,5 +1,5 @@
 # Typescript + Svelte + Sass + Vite library template
-Clone this template to easily get started creating a new template that uses [Typescript](https://www.typescriptlang.org/docs/) for coding, [Svelte](https://svelte.dev/) for reactive UI, [Sass](https://sass-lang.com/) to enhance CSS, and [Vite](https://vitejs.dev/) as the bundler tool
+Clone this template to easily get started creating a new [ESM](https://nodejs.org/api/esm.html) package template that uses [Typescript](https://www.typescriptlang.org/docs/) for coding, [Svelte](https://svelte.dev/) for reactive UI, [Sass](https://sass-lang.com/) to enhance CSS, and [Vite](https://vitejs.dev/) as the bundler tool
 
 ---------------------------
 HOW TO CLONE
