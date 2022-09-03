@@ -1,6 +1,6 @@
 <script lang="ts">
-  import svelteLogo from './assets/svelte.svg'
-  import Counter from './lib/Counter.svelte'
+  import svelteLogo from './svelte.svg'
+  import Counter from './Counter.svelte'
 </script>
 
 <main>
@@ -27,7 +27,7 @@
   </p>
 </main>
 
-<style>
+<style type="text/scss">
   .logo {
     height: 6em;
     padding: 1.5em;
