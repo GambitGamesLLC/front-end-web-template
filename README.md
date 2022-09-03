@@ -1,4 +1,4 @@
-# Svelte + TS + Vite
+# Svelte + Sass + TS + Vite
 
 This template should help get you started developing with Svelte, Sass and TypeScript in Vite.
 
