@@ -3,6 +3,8 @@ Clone this template to easily get started creating a new [ESM](https://nodejs.or
 
 New to front-end web development? Check out our [Web Developer Guide](https://gambitgames.gitbook.io/web-dev-guide/) for the basics on each tool.
 
+Choose this template when you need to create a new reactive UI component.
+
 ---------------------------
 HOW TO CLONE
 ---------------------------
